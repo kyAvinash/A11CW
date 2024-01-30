@@ -1,0 +1,1 @@
+console.log("My name is Avinash. Welcome to Replit.");
